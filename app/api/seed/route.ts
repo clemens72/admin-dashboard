@@ -40,7 +40,7 @@ export async function GET() {
     },
     {
        id: 4,
-  /     imageUrl:
+       imageUrl:
          'https://uwja77bygk2kgfqe.public.blob.vercel-storage.com/tv-H4l26crxtm9EQHLWc0ddrsXZ0V0Ofw.webp',
        name: '4K Ultra HD Smart TV',
        status: 'active',
